@@ -1,0 +1,15 @@
+D:\Visual Studio\hse_peer_review\PeerReview06\Redactor\bin\Debug\netcoreapp3.1\Redactor.exe
+D:\Visual Studio\hse_peer_review\PeerReview06\Redactor\bin\Debug\netcoreapp3.1\Redactor.deps.json
+D:\Visual Studio\hse_peer_review\PeerReview06\Redactor\bin\Debug\netcoreapp3.1\Redactor.runtimeconfig.json
+D:\Visual Studio\hse_peer_review\PeerReview06\Redactor\bin\Debug\netcoreapp3.1\Redactor.runtimeconfig.dev.json
+D:\Visual Studio\hse_peer_review\PeerReview06\Redactor\bin\Debug\netcoreapp3.1\Redactor.dll
+D:\Visual Studio\hse_peer_review\PeerReview06\Redactor\bin\Debug\netcoreapp3.1\Redactor.pdb
+D:\Visual Studio\hse_peer_review\PeerReview06\Redactor\obj\Debug\netcoreapp3.1\Redactor.csprojAssemblyReference.cache
+D:\Visual Studio\hse_peer_review\PeerReview06\Redactor\obj\Debug\netcoreapp3.1\Redactor.Form1.resources
+D:\Visual Studio\hse_peer_review\PeerReview06\Redactor\obj\Debug\netcoreapp3.1\Redactor.csproj.GenerateResource.cache
+D:\Visual Studio\hse_peer_review\PeerReview06\Redactor\obj\Debug\netcoreapp3.1\Redactor.AssemblyInfoInputs.cache
+D:\Visual Studio\hse_peer_review\PeerReview06\Redactor\obj\Debug\netcoreapp3.1\Redactor.AssemblyInfo.cs
+D:\Visual Studio\hse_peer_review\PeerReview06\Redactor\obj\Debug\netcoreapp3.1\Redactor.csproj.CoreCompileInputs.cache
+D:\Visual Studio\hse_peer_review\PeerReview06\Redactor\obj\Debug\netcoreapp3.1\Redactor.dll
+D:\Visual Studio\hse_peer_review\PeerReview06\Redactor\obj\Debug\netcoreapp3.1\Redactor.pdb
+D:\Visual Studio\hse_peer_review\PeerReview06\Redactor\obj\Debug\netcoreapp3.1\Redactor.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Visual Studio\hse_peer_review\PeerReview01\Try\bin\Debug\netcoreapp3.1\Try.exe
+D:\Visual Studio\hse_peer_review\PeerReview01\Try\bin\Debug\netcoreapp3.1\Try.deps.json
+D:\Visual Studio\hse_peer_review\PeerReview01\Try\bin\Debug\netcoreapp3.1\Try.runtimeconfig.json
+D:\Visual Studio\hse_peer_review\PeerReview01\Try\bin\Debug\netcoreapp3.1\Try.runtimeconfig.dev.json
+D:\Visual Studio\hse_peer_review\PeerReview01\Try\bin\Debug\netcoreapp3.1\Try.dll
+D:\Visual Studio\hse_peer_review\PeerReview01\Try\bin\Debug\netcoreapp3.1\Try.pdb
+D:\Visual Studio\hse_peer_review\PeerReview01\Try\obj\Debug\netcoreapp3.1\Try.csprojAssemblyReference.cache
+D:\Visual Studio\hse_peer_review\PeerReview01\Try\obj\Debug\netcoreapp3.1\Try.AssemblyInfoInputs.cache
+D:\Visual Studio\hse_peer_review\PeerReview01\Try\obj\Debug\netcoreapp3.1\Try.AssemblyInfo.cs
+D:\Visual Studio\hse_peer_review\PeerReview01\Try\obj\Debug\netcoreapp3.1\Try.csproj.CoreCompileInputs.cache
+D:\Visual Studio\hse_peer_review\PeerReview01\Try\obj\Debug\netcoreapp3.1\Try.dll
+D:\Visual Studio\hse_peer_review\PeerReview01\Try\obj\Debug\netcoreapp3.1\Try.pdb
+D:\Visual Studio\hse_peer_review\PeerReview01\Try\obj\Debug\netcoreapp3.1\Try.genruntimeconfig.cache

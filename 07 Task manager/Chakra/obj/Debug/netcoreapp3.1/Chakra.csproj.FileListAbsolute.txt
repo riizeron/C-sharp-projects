@@ -1,0 +1,8 @@
+D:\Visual Studio\hse_peer_review\PeerReview07\Chakra\bin\Debug\netcoreapp3.1\Chakra.deps.json
+D:\Visual Studio\hse_peer_review\PeerReview07\Chakra\bin\Debug\netcoreapp3.1\Chakra.dll
+D:\Visual Studio\hse_peer_review\PeerReview07\Chakra\bin\Debug\netcoreapp3.1\Chakra.pdb
+D:\Visual Studio\hse_peer_review\PeerReview07\Chakra\obj\Debug\netcoreapp3.1\Chakra.AssemblyInfoInputs.cache
+D:\Visual Studio\hse_peer_review\PeerReview07\Chakra\obj\Debug\netcoreapp3.1\Chakra.AssemblyInfo.cs
+D:\Visual Studio\hse_peer_review\PeerReview07\Chakra\obj\Debug\netcoreapp3.1\Chakra.csproj.CoreCompileInputs.cache
+D:\Visual Studio\hse_peer_review\PeerReview07\Chakra\obj\Debug\netcoreapp3.1\Chakra.dll
+D:\Visual Studio\hse_peer_review\PeerReview07\Chakra\obj\Debug\netcoreapp3.1\Chakra.pdb

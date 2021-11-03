@@ -1,0 +1,13 @@
+D:\Visual Studio\hse_peer_review\PeerReview02\directoryRoot\bin\Debug\netcoreapp3.1\directoryRoot.exe
+D:\Visual Studio\hse_peer_review\PeerReview02\directoryRoot\bin\Debug\netcoreapp3.1\directoryRoot.deps.json
+D:\Visual Studio\hse_peer_review\PeerReview02\directoryRoot\bin\Debug\netcoreapp3.1\directoryRoot.runtimeconfig.json
+D:\Visual Studio\hse_peer_review\PeerReview02\directoryRoot\bin\Debug\netcoreapp3.1\directoryRoot.runtimeconfig.dev.json
+D:\Visual Studio\hse_peer_review\PeerReview02\directoryRoot\bin\Debug\netcoreapp3.1\directoryRoot.dll
+D:\Visual Studio\hse_peer_review\PeerReview02\directoryRoot\bin\Debug\netcoreapp3.1\directoryRoot.pdb
+D:\Visual Studio\hse_peer_review\PeerReview02\directoryRoot\obj\Debug\netcoreapp3.1\directoryRoot.csprojAssemblyReference.cache
+D:\Visual Studio\hse_peer_review\PeerReview02\directoryRoot\obj\Debug\netcoreapp3.1\directoryRoot.AssemblyInfoInputs.cache
+D:\Visual Studio\hse_peer_review\PeerReview02\directoryRoot\obj\Debug\netcoreapp3.1\directoryRoot.AssemblyInfo.cs
+D:\Visual Studio\hse_peer_review\PeerReview02\directoryRoot\obj\Debug\netcoreapp3.1\directoryRoot.csproj.CoreCompileInputs.cache
+D:\Visual Studio\hse_peer_review\PeerReview02\directoryRoot\obj\Debug\netcoreapp3.1\directoryRoot.dll
+D:\Visual Studio\hse_peer_review\PeerReview02\directoryRoot\obj\Debug\netcoreapp3.1\directoryRoot.pdb
+D:\Visual Studio\hse_peer_review\PeerReview02\directoryRoot\obj\Debug\netcoreapp3.1\directoryRoot.genruntimeconfig.cache

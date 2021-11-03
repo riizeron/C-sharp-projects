@@ -1,0 +1,1 @@
+<ArrayOfProduct z:Id="1" z:Size="1" xmlns="http://schemas.datacontract.org/2004/07/Try01" xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns:z="http://schemas.microsoft.com/2003/10/Serialization/"><Product z:Id="2"><name z:Id="3">qq</name><price>23</price></Product></ArrayOfProduct>

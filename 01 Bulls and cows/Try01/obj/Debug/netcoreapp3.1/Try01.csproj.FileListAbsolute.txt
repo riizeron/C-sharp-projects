@@ -1,0 +1,13 @@
+D:\Visual Studio\hse_peer_review\PeerReview01\Try01\bin\Debug\netcoreapp3.1\Try01.exe
+D:\Visual Studio\hse_peer_review\PeerReview01\Try01\bin\Debug\netcoreapp3.1\Try01.deps.json
+D:\Visual Studio\hse_peer_review\PeerReview01\Try01\bin\Debug\netcoreapp3.1\Try01.runtimeconfig.json
+D:\Visual Studio\hse_peer_review\PeerReview01\Try01\bin\Debug\netcoreapp3.1\Try01.runtimeconfig.dev.json
+D:\Visual Studio\hse_peer_review\PeerReview01\Try01\bin\Debug\netcoreapp3.1\Try01.dll
+D:\Visual Studio\hse_peer_review\PeerReview01\Try01\bin\Debug\netcoreapp3.1\Try01.pdb
+D:\Visual Studio\hse_peer_review\PeerReview01\Try01\obj\Debug\netcoreapp3.1\Try01.csprojAssemblyReference.cache
+D:\Visual Studio\hse_peer_review\PeerReview01\Try01\obj\Debug\netcoreapp3.1\Try01.AssemblyInfoInputs.cache
+D:\Visual Studio\hse_peer_review\PeerReview01\Try01\obj\Debug\netcoreapp3.1\Try01.AssemblyInfo.cs
+D:\Visual Studio\hse_peer_review\PeerReview01\Try01\obj\Debug\netcoreapp3.1\Try01.csproj.CoreCompileInputs.cache
+D:\Visual Studio\hse_peer_review\PeerReview01\Try01\obj\Debug\netcoreapp3.1\Try01.dll
+D:\Visual Studio\hse_peer_review\PeerReview01\Try01\obj\Debug\netcoreapp3.1\Try01.pdb
+D:\Visual Studio\hse_peer_review\PeerReview01\Try01\obj\Debug\netcoreapp3.1\Try01.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Visual Studio\hse_peer_review\PeerReview03\fuckingTrap\bin\Debug\netcoreapp3.1\fuckingTrap.exe
+D:\Visual Studio\hse_peer_review\PeerReview03\fuckingTrap\bin\Debug\netcoreapp3.1\fuckingTrap.deps.json
+D:\Visual Studio\hse_peer_review\PeerReview03\fuckingTrap\bin\Debug\netcoreapp3.1\fuckingTrap.runtimeconfig.json
+D:\Visual Studio\hse_peer_review\PeerReview03\fuckingTrap\bin\Debug\netcoreapp3.1\fuckingTrap.runtimeconfig.dev.json
+D:\Visual Studio\hse_peer_review\PeerReview03\fuckingTrap\bin\Debug\netcoreapp3.1\fuckingTrap.dll
+D:\Visual Studio\hse_peer_review\PeerReview03\fuckingTrap\bin\Debug\netcoreapp3.1\fuckingTrap.pdb
+D:\Visual Studio\hse_peer_review\PeerReview03\fuckingTrap\obj\Debug\netcoreapp3.1\fuckingTrap.csprojAssemblyReference.cache
+D:\Visual Studio\hse_peer_review\PeerReview03\fuckingTrap\obj\Debug\netcoreapp3.1\fuckingTrap.AssemblyInfoInputs.cache
+D:\Visual Studio\hse_peer_review\PeerReview03\fuckingTrap\obj\Debug\netcoreapp3.1\fuckingTrap.AssemblyInfo.cs
+D:\Visual Studio\hse_peer_review\PeerReview03\fuckingTrap\obj\Debug\netcoreapp3.1\fuckingTrap.csproj.CoreCompileInputs.cache
+D:\Visual Studio\hse_peer_review\PeerReview03\fuckingTrap\obj\Debug\netcoreapp3.1\fuckingTrap.dll
+D:\Visual Studio\hse_peer_review\PeerReview03\fuckingTrap\obj\Debug\netcoreapp3.1\fuckingTrap.pdb
+D:\Visual Studio\hse_peer_review\PeerReview03\fuckingTrap\obj\Debug\netcoreapp3.1\fuckingTrap.genruntimeconfig.cache

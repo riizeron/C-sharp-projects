@@ -1,0 +1,17 @@
+D:\Visual Studio\hse_peer_review\PeerReview10\Try01\bin\Debug\Try01.exe.config
+D:\Visual Studio\hse_peer_review\PeerReview10\Try01\bin\Debug\Try01.exe
+D:\Visual Studio\hse_peer_review\PeerReview10\Try01\bin\Debug\Try01.pdb
+D:\Visual Studio\hse_peer_review\PeerReview10\Try01\obj\Debug\Try01.csprojAssemblyReference.cache
+D:\Visual Studio\hse_peer_review\PeerReview10\Try01\obj\Debug\Try01.Properties.Resources.resources
+D:\Visual Studio\hse_peer_review\PeerReview10\Try01\obj\Debug\Try01.RegisterationForm.resources
+D:\Visual Studio\hse_peer_review\PeerReview10\Try01\obj\Debug\Try01.StartForm.resources
+D:\Visual Studio\hse_peer_review\PeerReview10\Try01\obj\Debug\Try01.csproj.GenerateResource.cache
+D:\Visual Studio\hse_peer_review\PeerReview10\Try01\obj\Debug\Try01.csproj.CoreCompileInputs.cache
+D:\Visual Studio\hse_peer_review\PeerReview10\Try01\obj\Debug\Try01.exe
+D:\Visual Studio\hse_peer_review\PeerReview10\Try01\obj\Debug\Try01.pdb
+D:\Visual Studio\hse_peer_review\PeerReview10\Try01\obj\Debug\Try01.AddProductForm.resources
+D:\Visual Studio\hse_peer_review\PeerReview10\Try01\obj\Debug\Try01.ClientForm.resources
+D:\Visual Studio\hse_peer_review\PeerReview10\Try01\obj\Debug\Try01.SellerForm.resources
+D:\Visual Studio\hse_peer_review\PeerReview10\Try01\obj\Debug\Try01.ShowClientsForm.resources
+D:\Visual Studio\hse_peer_review\PeerReview10\Try01\obj\Debug\Try01.ShowOrdersForm.resources
+D:\Visual Studio\hse_peer_review\PeerReview10\Try01\obj\Debug\Try01.ShowExecutedOrders.resources

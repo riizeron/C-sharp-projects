@@ -1,0 +1,11 @@
+D:\Visual Studio\hse_peer_review\Eva(PeerReview08)\Adam\bin\Debug\Adam.exe.config
+D:\Visual Studio\hse_peer_review\Eva(PeerReview08)\Adam\bin\Debug\Adam.exe
+D:\Visual Studio\hse_peer_review\Eva(PeerReview08)\Adam\bin\Debug\Adam.pdb
+D:\Visual Studio\hse_peer_review\Eva(PeerReview08)\Adam\obj\Debug\Adam.csprojAssemblyReference.cache
+D:\Visual Studio\hse_peer_review\Eva(PeerReview08)\Adam\obj\Debug\Adam.Form1.resources
+D:\Visual Studio\hse_peer_review\Eva(PeerReview08)\Adam\obj\Debug\Adam.Properties.Resources.resources
+D:\Visual Studio\hse_peer_review\Eva(PeerReview08)\Adam\obj\Debug\Adam.csproj.GenerateResource.cache
+D:\Visual Studio\hse_peer_review\Eva(PeerReview08)\Adam\obj\Debug\Adam.csproj.CoreCompileInputs.cache
+D:\Visual Studio\hse_peer_review\Eva(PeerReview08)\Adam\obj\Debug\Adam.exe
+D:\Visual Studio\hse_peer_review\Eva(PeerReview08)\Adam\obj\Debug\Adam.pdb
+D:\Visual Studio\hse_peer_review\Eva(PeerReview08)\Adam\obj\Debug\Adam.FormGR.resources

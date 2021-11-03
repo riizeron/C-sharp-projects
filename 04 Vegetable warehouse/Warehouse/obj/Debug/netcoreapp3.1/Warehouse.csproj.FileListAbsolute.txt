@@ -1,0 +1,13 @@
+D:\Visual Studio\hse_peer_review\PeerReview04\Warehouse\bin\Debug\netcoreapp3.1\Warehouse.exe
+D:\Visual Studio\hse_peer_review\PeerReview04\Warehouse\bin\Debug\netcoreapp3.1\Warehouse.deps.json
+D:\Visual Studio\hse_peer_review\PeerReview04\Warehouse\bin\Debug\netcoreapp3.1\Warehouse.runtimeconfig.json
+D:\Visual Studio\hse_peer_review\PeerReview04\Warehouse\bin\Debug\netcoreapp3.1\Warehouse.runtimeconfig.dev.json
+D:\Visual Studio\hse_peer_review\PeerReview04\Warehouse\bin\Debug\netcoreapp3.1\Warehouse.dll
+D:\Visual Studio\hse_peer_review\PeerReview04\Warehouse\bin\Debug\netcoreapp3.1\Warehouse.pdb
+D:\Visual Studio\hse_peer_review\PeerReview04\Warehouse\obj\Debug\netcoreapp3.1\Warehouse.csprojAssemblyReference.cache
+D:\Visual Studio\hse_peer_review\PeerReview04\Warehouse\obj\Debug\netcoreapp3.1\Warehouse.AssemblyInfoInputs.cache
+D:\Visual Studio\hse_peer_review\PeerReview04\Warehouse\obj\Debug\netcoreapp3.1\Warehouse.AssemblyInfo.cs
+D:\Visual Studio\hse_peer_review\PeerReview04\Warehouse\obj\Debug\netcoreapp3.1\Warehouse.csproj.CoreCompileInputs.cache
+D:\Visual Studio\hse_peer_review\PeerReview04\Warehouse\obj\Debug\netcoreapp3.1\Warehouse.dll
+D:\Visual Studio\hse_peer_review\PeerReview04\Warehouse\obj\Debug\netcoreapp3.1\Warehouse.pdb
+D:\Visual Studio\hse_peer_review\PeerReview04\Warehouse\obj\Debug\netcoreapp3.1\Warehouse.genruntimeconfig.cache

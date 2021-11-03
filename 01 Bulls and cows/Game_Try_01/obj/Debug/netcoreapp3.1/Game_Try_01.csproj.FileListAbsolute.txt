@@ -1,0 +1,13 @@
+D:\Visual Studio\hse_peer_review\PeerReview01\Game_Try_01\bin\Debug\netcoreapp3.1\Game_Try_01.exe
+D:\Visual Studio\hse_peer_review\PeerReview01\Game_Try_01\bin\Debug\netcoreapp3.1\Game_Try_01.deps.json
+D:\Visual Studio\hse_peer_review\PeerReview01\Game_Try_01\bin\Debug\netcoreapp3.1\Game_Try_01.runtimeconfig.json
+D:\Visual Studio\hse_peer_review\PeerReview01\Game_Try_01\bin\Debug\netcoreapp3.1\Game_Try_01.runtimeconfig.dev.json
+D:\Visual Studio\hse_peer_review\PeerReview01\Game_Try_01\bin\Debug\netcoreapp3.1\Game_Try_01.dll
+D:\Visual Studio\hse_peer_review\PeerReview01\Game_Try_01\bin\Debug\netcoreapp3.1\Game_Try_01.pdb
+D:\Visual Studio\hse_peer_review\PeerReview01\Game_Try_01\obj\Debug\netcoreapp3.1\Game_Try_01.csprojAssemblyReference.cache
+D:\Visual Studio\hse_peer_review\PeerReview01\Game_Try_01\obj\Debug\netcoreapp3.1\Game_Try_01.AssemblyInfoInputs.cache
+D:\Visual Studio\hse_peer_review\PeerReview01\Game_Try_01\obj\Debug\netcoreapp3.1\Game_Try_01.AssemblyInfo.cs
+D:\Visual Studio\hse_peer_review\PeerReview01\Game_Try_01\obj\Debug\netcoreapp3.1\Game_Try_01.csproj.CoreCompileInputs.cache
+D:\Visual Studio\hse_peer_review\PeerReview01\Game_Try_01\obj\Debug\netcoreapp3.1\Game_Try_01.dll
+D:\Visual Studio\hse_peer_review\PeerReview01\Game_Try_01\obj\Debug\netcoreapp3.1\Game_Try_01.pdb
+D:\Visual Studio\hse_peer_review\PeerReview01\Game_Try_01\obj\Debug\netcoreapp3.1\Game_Try_01.genruntimeconfig.cache

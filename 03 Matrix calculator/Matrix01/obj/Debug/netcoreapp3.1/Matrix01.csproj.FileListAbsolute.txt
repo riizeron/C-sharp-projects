@@ -1,0 +1,13 @@
+D:\Visual Studio\hse_peer_review\PeerReview03\Matrix01\bin\Debug\netcoreapp3.1\Matrix01.exe
+D:\Visual Studio\hse_peer_review\PeerReview03\Matrix01\bin\Debug\netcoreapp3.1\Matrix01.deps.json
+D:\Visual Studio\hse_peer_review\PeerReview03\Matrix01\bin\Debug\netcoreapp3.1\Matrix01.runtimeconfig.json
+D:\Visual Studio\hse_peer_review\PeerReview03\Matrix01\bin\Debug\netcoreapp3.1\Matrix01.runtimeconfig.dev.json
+D:\Visual Studio\hse_peer_review\PeerReview03\Matrix01\bin\Debug\netcoreapp3.1\Matrix01.dll
+D:\Visual Studio\hse_peer_review\PeerReview03\Matrix01\bin\Debug\netcoreapp3.1\Matrix01.pdb
+D:\Visual Studio\hse_peer_review\PeerReview03\Matrix01\obj\Debug\netcoreapp3.1\Matrix01.csprojAssemblyReference.cache
+D:\Visual Studio\hse_peer_review\PeerReview03\Matrix01\obj\Debug\netcoreapp3.1\Matrix01.AssemblyInfoInputs.cache
+D:\Visual Studio\hse_peer_review\PeerReview03\Matrix01\obj\Debug\netcoreapp3.1\Matrix01.AssemblyInfo.cs
+D:\Visual Studio\hse_peer_review\PeerReview03\Matrix01\obj\Debug\netcoreapp3.1\Matrix01.csproj.CoreCompileInputs.cache
+D:\Visual Studio\hse_peer_review\PeerReview03\Matrix01\obj\Debug\netcoreapp3.1\Matrix01.dll
+D:\Visual Studio\hse_peer_review\PeerReview03\Matrix01\obj\Debug\netcoreapp3.1\Matrix01.pdb
+D:\Visual Studio\hse_peer_review\PeerReview03\Matrix01\obj\Debug\netcoreapp3.1\Matrix01.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Visual Studio\hse_peer_review\PeerReview07\Saskeeeee\bin\Debug\netcoreapp3.1\Saskeeeee.exe
+D:\Visual Studio\hse_peer_review\PeerReview07\Saskeeeee\bin\Debug\netcoreapp3.1\Saskeeeee.deps.json
+D:\Visual Studio\hse_peer_review\PeerReview07\Saskeeeee\bin\Debug\netcoreapp3.1\Saskeeeee.runtimeconfig.json
+D:\Visual Studio\hse_peer_review\PeerReview07\Saskeeeee\bin\Debug\netcoreapp3.1\Saskeeeee.runtimeconfig.dev.json
+D:\Visual Studio\hse_peer_review\PeerReview07\Saskeeeee\bin\Debug\netcoreapp3.1\Saskeeeee.dll
+D:\Visual Studio\hse_peer_review\PeerReview07\Saskeeeee\bin\Debug\netcoreapp3.1\Saskeeeee.pdb
+D:\Visual Studio\hse_peer_review\PeerReview07\Saskeeeee\bin\Debug\netcoreapp3.1\Chakra.dll
+D:\Visual Studio\hse_peer_review\PeerReview07\Saskeeeee\bin\Debug\netcoreapp3.1\Chakra.pdb
+D:\Visual Studio\hse_peer_review\PeerReview07\Saskeeeee\obj\Debug\netcoreapp3.1\Saskeeeee.csprojAssemblyReference.cache
+D:\Visual Studio\hse_peer_review\PeerReview07\Saskeeeee\obj\Debug\netcoreapp3.1\Saskeeeee.AssemblyInfoInputs.cache
+D:\Visual Studio\hse_peer_review\PeerReview07\Saskeeeee\obj\Debug\netcoreapp3.1\Saskeeeee.AssemblyInfo.cs
+D:\Visual Studio\hse_peer_review\PeerReview07\Saskeeeee\obj\Debug\netcoreapp3.1\Saskeeeee.csproj.CoreCompileInputs.cache
+D:\Visual Studio\hse_peer_review\PeerReview07\Saskeeeee\obj\Debug\netcoreapp3.1\Saskeeeee.csproj.CopyComplete
+D:\Visual Studio\hse_peer_review\PeerReview07\Saskeeeee\obj\Debug\netcoreapp3.1\Saskeeeee.dll
+D:\Visual Studio\hse_peer_review\PeerReview07\Saskeeeee\obj\Debug\netcoreapp3.1\Saskeeeee.pdb
+D:\Visual Studio\hse_peer_review\PeerReview07\Saskeeeee\obj\Debug\netcoreapp3.1\Saskeeeee.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "72ygyWRKHZOj8QU186WO1hspZEBesvdNGkZpQIdir6wRtPn892Y2AMzqx84TsWo+l7NFNm0T8m7ZzXhWVXMr/A==",
+  "success": true,
+  "projectFilePath": "D:\\Visual Studio\\hse_peer_review\\PeerReview06_2\\Try01\\Cyberwitcher 1077.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Вячеслав\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Вячеслав\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

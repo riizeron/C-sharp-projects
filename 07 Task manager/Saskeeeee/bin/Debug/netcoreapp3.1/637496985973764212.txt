@@ -1,0 +1,5 @@
+Project - first
+ Bug   -   bug   -   01.01.0001 0:00:00   -   Open Task   -   ()  Task   -   task   -   23.02.2021 17:31:48   -   Open Task   -   (slava | )
+  Epic  -  epic  -  23.02.2021 17:32:07  -  Open Task
+	Story   -   story   -   23.02.2021 17:32:26   -   Open Task   -   (slava | denis | )
+

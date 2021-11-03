@@ -1,0 +1,13 @@
+D:\Visual Studio\hse_peer_review\PeerReview02\ListOfDisks\bin\Debug\netcoreapp3.1\ListOfDisks.exe
+D:\Visual Studio\hse_peer_review\PeerReview02\ListOfDisks\bin\Debug\netcoreapp3.1\ListOfDisks.deps.json
+D:\Visual Studio\hse_peer_review\PeerReview02\ListOfDisks\bin\Debug\netcoreapp3.1\ListOfDisks.runtimeconfig.json
+D:\Visual Studio\hse_peer_review\PeerReview02\ListOfDisks\bin\Debug\netcoreapp3.1\ListOfDisks.runtimeconfig.dev.json
+D:\Visual Studio\hse_peer_review\PeerReview02\ListOfDisks\bin\Debug\netcoreapp3.1\ListOfDisks.dll
+D:\Visual Studio\hse_peer_review\PeerReview02\ListOfDisks\bin\Debug\netcoreapp3.1\ListOfDisks.pdb
+D:\Visual Studio\hse_peer_review\PeerReview02\ListOfDisks\obj\Debug\netcoreapp3.1\ListOfDisks.AssemblyInfoInputs.cache
+D:\Visual Studio\hse_peer_review\PeerReview02\ListOfDisks\obj\Debug\netcoreapp3.1\ListOfDisks.AssemblyInfo.cs
+D:\Visual Studio\hse_peer_review\PeerReview02\ListOfDisks\obj\Debug\netcoreapp3.1\ListOfDisks.csproj.CoreCompileInputs.cache
+D:\Visual Studio\hse_peer_review\PeerReview02\ListOfDisks\obj\Debug\netcoreapp3.1\ListOfDisks.dll
+D:\Visual Studio\hse_peer_review\PeerReview02\ListOfDisks\obj\Debug\netcoreapp3.1\ListOfDisks.pdb
+D:\Visual Studio\hse_peer_review\PeerReview02\ListOfDisks\obj\Debug\netcoreapp3.1\ListOfDisks.genruntimeconfig.cache
+D:\Visual Studio\hse_peer_review\PeerReview02\ListOfDisks\obj\Debug\netcoreapp3.1\ListOfDisks.csprojAssemblyReference.cache

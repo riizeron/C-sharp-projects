@@ -1,0 +1,10 @@
+D:\Visual Studio\hse_peer_review\PeerReview06_Fr\Try01\bin\Debug\Try01.exe.config
+D:\Visual Studio\hse_peer_review\PeerReview06_Fr\Try01\bin\Debug\Try01.exe
+D:\Visual Studio\hse_peer_review\PeerReview06_Fr\Try01\bin\Debug\Try01.pdb
+D:\Visual Studio\hse_peer_review\PeerReview06_Fr\Try01\obj\Debug\Try01.csprojAssemblyReference.cache
+D:\Visual Studio\hse_peer_review\PeerReview06_Fr\Try01\obj\Debug\Try01.Form1.resources
+D:\Visual Studio\hse_peer_review\PeerReview06_Fr\Try01\obj\Debug\Try01.Properties.Resources.resources
+D:\Visual Studio\hse_peer_review\PeerReview06_Fr\Try01\obj\Debug\Try01.csproj.GenerateResource.cache
+D:\Visual Studio\hse_peer_review\PeerReview06_Fr\Try01\obj\Debug\Try01.csproj.CoreCompileInputs.cache
+D:\Visual Studio\hse_peer_review\PeerReview06_Fr\Try01\obj\Debug\Try01.exe
+D:\Visual Studio\hse_peer_review\PeerReview06_Fr\Try01\obj\Debug\Try01.pdb
